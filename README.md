@@ -49,7 +49,7 @@ A classic **Tic Tac Toe** game built with **Pygame**, featuring a human player v
 
 3. Run it
    ```bash
-   python tic_tac_toe_ai.py
+   python main.py
 
 4. Enjoy!
 
