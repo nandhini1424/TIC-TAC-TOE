@@ -67,3 +67,7 @@ A classic **Tic Tac Toe** game built with **Pygame**, featuring a human player v
 <img width="749" height="786" alt="Screenshot 2025-07-30 173955" src="https://github.com/user-attachments/assets/73f9e2d8-2858-47e2-8b5d-216629002e0b" />
 <img width="745" height="782" alt="Screenshot 2025-07-30 174008" src="https://github.com/user-attachments/assets/6786d683-c1fe-475a-be0f-ee9a739500d0" />
 <img width="744" height="781" alt="Screenshot 2025-07-30 174022" src="https://github.com/user-attachments/assets/3a6f6212-94db-4a1f-b3fb-94738162b70b" />
+
+## ✏️ Author
+
+Built and documented by [nandhini1424](https://github.com/nandhini1424)
